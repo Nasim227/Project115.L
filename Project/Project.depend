@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1672322220 source:c:\users\user\desktop\project 115\project\main.c
+	<stdio.h>
+	"splash.h"
+	"List.h"
+	"citychse.h"
+	"htlchse.h"
+
+1672215371 c:\users\user\desktop\project 115\project\splash.h
+
+1672230481 c:\users\user\desktop\project 115\project\list.h
+
+1672320494 c:\users\user\desktop\project 115\project\hotel.h
+
+1672232564 c:\users\user\desktop\project 115\project\citychse.h
+	"hotel.h"
+
+1672322562 c:\users\user\desktop\project 115\project\htlchse.h
+	"rooms1.h"
+	"rooms2.h"
+
+1672324793 c:\users\user\desktop\project 115\project\rooms1.h
+
+1672324793 c:\users\user\desktop\project 115\project\rooms2.h
+
