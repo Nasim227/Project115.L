@@ -39,6 +39,7 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="rmchse.h" />
 		<Unit filename="rooms1.h" />
 		<Unit filename="rooms2.h" />
 		<Unit filename="splash.h" />

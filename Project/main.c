@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <string.h>
 #include "splash.h"
 #include "List.h"
 #include "citychse.h"
 #include "htlchse.h"
+#include "rmchse.h"
 
 int main(void)
 {
@@ -18,8 +20,11 @@ int main(void)
     system("cls");
 
     hotlop( twn , dnum );
-    sleep(5);
+
+    rooomdata();
+    sleep(6);
     system("cls");
+
 
     printf("\n\n\n\n\n\n\n\n\n\n\n\n");
     printf("\t\t\t\t\t\t\t\t Thank you for using our program");
