@@ -23,10 +23,11 @@
 
 1672324793 c:\users\user\desktop\project 115\project\rooms2.h
 
-1672363493 source:c:\users\user\desktop\project 115\project115.l\project\main.c
+1672428357 source:c:\users\user\desktop\project 115\project115.l\project\main.c
 	<stdio.h>
 	<string.h>
 	"splash.h"
+	"rgorlg.h"
 	"List.h"
 	"citychse.h"
 	"htlchse.h"
@@ -45,9 +46,14 @@
 	"rooms1.h"
 	"rooms2.h"
 
-1672365273 c:\users\user\desktop\project 115\project115.l\project\rooms1.h
+1672395454 c:\users\user\desktop\project 115\project115.l\project\rooms1.h
 
-1672365273 c:\users\user\desktop\project 115\project115.l\project\rooms2.h
+1672395451 c:\users\user\desktop\project 115\project115.l\project\rooms2.h
 
 1672365347 c:\users\user\desktop\project 115\project115.l\project\rmchse.h
+
+1672428665 c:\users\user\desktop\project 115\project115.l\project\reglog.h
+
+1672428665 c:\users\user\desktop\project 115\project115.l\project\rgorlg.h
+	"Reglog.h"
 

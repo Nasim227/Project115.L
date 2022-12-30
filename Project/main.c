@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "splash.h"
-#include "Reglog.h"
+#include "rgorlg.h"
 #include "List.h"
 #include "citychse.h"
 #include "htlchse.h"
@@ -12,8 +12,10 @@ int main(void)
     int twn , dnum ;
 
     splash();
-    sleep(6);
+    sleep(5);
     system("cls");
+
+    rgorlg();
 
     twn = city();
 
@@ -23,13 +25,13 @@ int main(void)
     hotlop( twn , dnum );
 
     rooomdata();
-    sleep(6);
+    sleep(4);
     system("cls");
 
 
     printf("\n\n\n\n\n\n\n\n\n\n\n\n");
     printf("\t\t\t\t\t\t\t\t Thank you for using our program");
-    sleep(4);
+    sleep(3);
     system("cls");
 
     return 0;
