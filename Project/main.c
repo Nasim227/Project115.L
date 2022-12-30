@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "splash.h"
+#include "Reglog.h"
 #include "List.h"
 #include "citychse.h"
 #include "htlchse.h"

@@ -3,7 +3,6 @@ void coxone(void)
     printf("\t\t\t\t\t\t\t\t\tBest Western Heritage\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe double room               >> 3 \n");
     printf("\t                               Superior double room             >> 2 \n");
@@ -19,7 +18,6 @@ void coxtwo(void)
     printf("\t\t\t\t\t\t\t\t\t\tHotel Sea Cox\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe double room(Sea view)   >> 3 \n");
     printf("\t                               Deluxe double room             >> 2 \n");
@@ -34,7 +32,6 @@ void coxthr(void)
     printf("\t\t\t\t\t\t\t\t\tHotel Oasis International\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe King room   >> 3 \n");
     printf("\t                               Deluxe double room >> 2 \n");
@@ -51,7 +48,6 @@ void coxfr(void)
     printf("\t\t\t\t\t\t\t\t\tGrace Cox Smart Hotel\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe King room   >> 3 \n");
     printf("\t                               Deluxe double room >> 2 \n");
@@ -68,7 +64,6 @@ void sylone(void)
     printf("\t\t\t\t\t\t\t\t\tHotel Noorjahan Grand\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe King room   >> 3 \n");
     printf("\t                               Deluxe double room >> 2 \n");
@@ -85,7 +80,6 @@ void syltwo(void)
     printf("\t\t\t\t\t\t\t\t\tThe Grand Hotel BD\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe King room   >> 3 \n");
     printf("\t                               Deluxe double room >> 2 \n");
@@ -102,7 +96,6 @@ void sylthr(void)
     printf("\t\t\t\t\t\t\t\t\t\tHotel Payra\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe King room   >> 3 \n");
     printf("\t                               Deluxe double room >> 2 \n");
@@ -119,7 +112,6 @@ void bandone(void)
     printf("\t\t\t\t\t\t\t\t\t\tHotel Hill View\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe King room   >> 3 \n");
     printf("\t                               Deluxe double room >> 2 \n");
@@ -136,7 +128,6 @@ void bandtwo(void)
     printf("\t\t\t\t\t\t\t\t\tHotel Night Heaven\n");
     printf("\n\n");
 
-    printf("Address : \n");
     printf("\n\n\n");
     printf("\tRooms available for booking >> Deluxe King room   >> 3 \n");
     printf("\t                               Deluxe double room >> 2 \n");
