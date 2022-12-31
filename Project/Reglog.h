@@ -68,7 +68,7 @@ void login(void)
 
     if( fread(&rg , sizeof(rg) , 1 , regstr ) )
     {
-        if( strcmp(lg.usrnmechck,rg.user_name)==0 && strcmp(lg.passchck,rg.password)==0 )
+        if( strcmp(rg.user_name,lg.usrnmechck)==0 && strcmp(rg.password,lg.passchck)==0 )
         {
             printf("\n\n\t\tLogin successfull....");
 

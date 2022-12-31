@@ -1,5 +1,7 @@
 void splash(void)
 {
+    system(" color 0B ");
+
 printf("\n\n");
 
 printf("\t\t\t\t\t\t\t\t      ------------------------- \n");

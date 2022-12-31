@@ -1,5 +1,7 @@
 void coxone(void)
 {
+    system("Western.jpg");
+
     printf("\t\t\t\t\t\t\t\t\tBest Western Heritage\n");
     printf("\n\n");
 
@@ -15,6 +17,8 @@ void coxone(void)
 
 void coxtwo(void)
 {
+    system("seacox.jpg");
+
     printf("\t\t\t\t\t\t\t\t\t\tHotel Sea Cox\n");
     printf("\n\n");
 
@@ -29,6 +33,8 @@ void coxtwo(void)
 
 void coxthr(void)
 {
+    system("cox.jpg");
+
     printf("\t\t\t\t\t\t\t\t\tHotel Oasis International\n");
     printf("\n\n");
 
@@ -45,6 +51,8 @@ void coxthr(void)
 
 void coxfr(void)
 {
+    system("cox.jpg");
+
     printf("\t\t\t\t\t\t\t\t\tGrace Cox Smart Hotel\n");
     printf("\n\n");
 
@@ -61,6 +69,8 @@ void coxfr(void)
 
 void sylone(void)
 {
+    system("nrjhn.jpg");
+
     printf("\t\t\t\t\t\t\t\t\tHotel Noorjahan Grand\n");
     printf("\n\n");
 
@@ -77,6 +87,8 @@ void sylone(void)
 
 void syltwo(void)
 {
+    system("grand.jpg");
+
     printf("\t\t\t\t\t\t\t\t\tThe Grand Hotel BD\n");
     printf("\n\n");
 
@@ -93,6 +105,8 @@ void syltwo(void)
 
 void sylthr(void)
 {
+    system("payra.jpg");
+
     printf("\t\t\t\t\t\t\t\t\t\tHotel Payra\n");
     printf("\n\n");
 
@@ -109,6 +123,8 @@ void sylthr(void)
 
 void bandone(void)
 {
+    system("band.jpg");
+
     printf("\t\t\t\t\t\t\t\t\t\tHotel Hill View\n");
     printf("\n\n");
 
@@ -125,6 +141,8 @@ void bandone(void)
 
 void bandtwo(void)
 {
+    system("hilvw.jpg");
+
     printf("\t\t\t\t\t\t\t\t\tHotel Night Heaven\n");
     printf("\n\n");
 

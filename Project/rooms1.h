@@ -1,5 +1,7 @@
 void dhone(void)
 {
+    system("amdh.jpg");
+
     printf("\t\t\t\t\t\t\t\t\t\tAmari Dhaka\n");
     printf("\n\n");
 
@@ -16,6 +18,8 @@ void dhone(void)
 
 void dhtwo(void)
 {
+    system("panpac.jpg");
+
     printf("\t\t\t\t\t\t\t\t   Pan Pacific Sonargaon Dhaka\n");
     printf("\n\n");
 
@@ -33,6 +37,8 @@ void dhtwo(void)
 
 void dhthr(void)
 {
+    system("amdh.jpg");
+
     printf("\t\t\t\t\t\t\t\tRenaissance Dhaka Gulshan Hotel\n");
     printf("\n\n");
 
@@ -50,6 +56,8 @@ void dhthr(void)
 
 void dhfr(void)
 {
+    system("westpls.jpg");
+
     printf("\t\t\t\t\t\t\tBest Western PLUS Maya - Luxury Collection Hotel\n");
     printf("\n\n");
 
@@ -66,6 +74,8 @@ void dhfr(void)
 
 void ranone(void)
 {
+    system("rang.jpg");
+
     printf("\t\t\t\t\t\t\t\t\t\tHotel Prince\n");
     printf("\n\n");
 
@@ -82,6 +92,8 @@ void ranone(void)
 
 void rantwo(void)
 {
+    system("rang.jpg");
+
     printf("\t\t\t\t\t\t\t\t\tHotel Green Castle\n");
     printf("\n\n");
 
@@ -98,6 +110,8 @@ void rantwo(void)
 
 void chaone(void)
 {
+    system("rad.jpg");
+
     printf("\t\t\t\t\t\t\tRadisson Blu Chattogram Bay View\n");
     printf("\n\n");
 
@@ -114,6 +128,8 @@ void chaone(void)
 
 void chatwo(void)
 {
+    system("cha.jpg");
+
     printf("\t\t\t\t\t\t\t\tRoyal Living Hotel & Suites\n");
     printf("\n\n");
 
@@ -130,6 +146,8 @@ void chatwo(void)
 
 void chathr(void)
 {
+    system("cha.jpg");
+
     printf("\t\t\t\t\t\t\t\t\tGrand Park Hotel\n");
     printf("\n\n");
 
