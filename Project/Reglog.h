@@ -87,4 +87,5 @@ void login(void)
             login();
         }
     }
+    fclose(regstr);
 }
